@@ -64,7 +64,6 @@ submit.onclick = function () {
       count.style.display = "block";
     }
     clearData();
-    alert("Your Product has been added successfully!");
   }
 
   // save localstorage
